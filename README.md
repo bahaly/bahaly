@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bahaly fullstack developer enthusiast debugger 
 - 👀 I’m interested in Js angular ...
-- 🌱 I’m currently learning cloud with aws
+- 🌱 I’m currently learning cloud with aws and vue js
 - 💞️ I’m looking to collaborate on innovate project
 - 📫 How to reach me elbadembele@gmail.com
 
